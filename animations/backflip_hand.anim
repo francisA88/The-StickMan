@@ -1,0 +1,19 @@
+sync:
+arm1j1.angle -210
+leg2j1.angle -180
+leg2j2.angle 50
+oposition.y 45
+ax_rot.angle -130
+arm1j1.angle -150
+arm2j1.angle 65
+arm1j2.angle -65
+endsync:
+sync:
+oposition.x 50
+ax_rot.angle -190
+oposition.y 75
+leg1j1.angle -230
+arm1j1.angle -60
+arm2j1.angle 150
+leg2j1.angle -350
+endsync:

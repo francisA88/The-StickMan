@@ -1,0 +1,10 @@
+sync:
+uax_rot.angle -10
+arm1j1.angle 100
+arm1j2.angle 80
+arm2j1.angle 20
+arm2j2.angle 90
+leg1j2.angle -20
+leg2j1.angle 10
+leg2j2.angle -20
+endsync:

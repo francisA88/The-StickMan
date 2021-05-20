@@ -1,0 +1,22 @@
+loop: 3
+	sync: 	
+	 	arm1j2.angle -35
+		arm1j1.angle 100
+		leg2j2.angle 10
+		leg2j1.angle -49
+		arm2j1.angle -100
+		leg1j1.angle 49
+		endsync:
+		arm2j2.angle 35
+	#arm2j1.angle 0
+#	sync:
+#		arm1j1.angle 0
+#		leg2j1.angle -49
+#		arm2j1.angle -100
+#		endsync:
+#			leg1j1.angle 0
+endloop:
+#leg1j2.angle -10
+#leg1j1.angle 49
+#leg2j2.angle 10
+#leg2j1.angle -49

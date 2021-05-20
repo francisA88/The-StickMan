@@ -1,0 +1,22 @@
+<!--Old syntax-->
+<!--sync:
+leg1j1.angle 10
+leg1j2.angle 50
+leg2j1.angle -50
+leg2j2.angle 70
+endsync:
+oposition.y -6
+-->
+<!-- New syntax uses XML-->
+<Stickman>
+	<Speed speed="4"/>
+	<Sync>
+		<Leg1J1 angle="10"/>
+		<Leg1J2 angle="50"/>
+		<Leg2J1 angle="-50"/>
+		<Leg2j2 angle="70"/>
+	</Sync>
+	<Oposition y="-6"/>
+	<Speed speed="prev"/>
+</Stickman>
+	

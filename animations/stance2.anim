@@ -1,0 +1,15 @@
+sync:
+leg1j1.angle -15
+leg1j2.angle 10
+leg2j1.angle 15
+leg2j2.angle -10
+arm1j2.angle 110
+arm2j2.angle 140
+oposition.y -5
+endsync:
+sync:
+arm1j1.angle 20
+arm1j2.angle 60
+arm2j1.angle -50
+arm2j2.angle 70
+endsync:

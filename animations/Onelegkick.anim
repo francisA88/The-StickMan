@@ -1,0 +1,20 @@
+#Tested with Stickman headsize=40,40 and AnimationLoader attr_setter_type="as-is"
+speed: 6
+sync:
+ax_rot.angle -10
+oposition.x 10
+oposition.y 5
+leg2j1.angle -10
+leg2j2.angle 7
+leg1j2.angle 60
+leg1j2.angle 60
+leg1j1.angle -60
+endsync:
+sync:
+arm1j1.angle 15
+arm1j2.angle -45
+arm2j1.angle -30
+endsync:
+arm2j2.angle 145
+speed: 10
+leg1j2.angle 0

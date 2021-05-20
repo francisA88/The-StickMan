@@ -1,0 +1,27 @@
+speed: 3
+sync:
+arm1j1.angle -130
+arm1j2.angle -50
+leg1j1.angle -110
+leg1j2.angle -20
+leg2j1.angle -170
+leg2j2.angle -5
+arm2j2.angle 50
+arm2j1.angle -150
+endsync:
+arm2j2.angle 70
+speed:4
+orotation.angle -20
+sync:
+#	orotation.angle -360
+#	leg1j1.angle 20
+#	leg2j1.angle -20
+#	arm1j1.angle 100
+#	arm2j1.angle 330
+	orotation.angle -360
+	arm1j2.angle -30
+	arm2j2.angle 35
+	leg1j1.angle 20
+	leg2j1.angle -40
+	leg2j2.angle 10
+	leg2j2.angle 40

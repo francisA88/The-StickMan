@@ -1,0 +1,14 @@
+
+speed: 2
+sync:
+arm2j1.angle -20
+arm2j2.angle -70
+arm1j1.angle -10
+arm1j2.angle -70
+leg1j1.angle -50
+leg2j1.angle 50
+leg1j2.angle 40
+leg2j2.angle -40
+oposition.y -35
+endsync:
+oposition.y -35

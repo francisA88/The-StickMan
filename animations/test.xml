@@ -1,0 +1,11 @@
+<Stickman>
+	<speed speed="1"/>
+	<Sync>
+		<ax_rot angle="-180"/>
+		<arm1j2 angle="-180"/>
+		<oposition x="-30"/>
+		<orotation angle="-360"/>
+	</Sync>
+	<speed speed="prev"/>
+	<oposition y="200"/>
+</Stickman>

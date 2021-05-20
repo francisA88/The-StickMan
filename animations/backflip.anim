@@ -1,0 +1,28 @@
+sync:
+leg1j1.angle -130
+leg1j2.angle 130
+leg2j1.angle -180
+leg2j2.angle 140
+endsync:
+
+speed: 2.5
+
+sync:
+arm2j2.angle 60
+arm1j1.angle 20
+arm2j1.angle -130
+endsync:
+arm2j2.angle 60
+sync:
+ax_rot.angle -180
+ax_rot.angle -360
+leg2j2.angle 280
+leg2j1.angle -280
+#leg2j1.angle -40
+#leg2j2.angle 20
+#leg1j1.angle -260
+#leg1j1.angle -340
+#leg1j2.angle -1
+arm1j1.angle 40
+arm2j1.angle -140
+#arm2j2.angle 90

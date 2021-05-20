@@ -1,0 +1,39 @@
+sync:
+	ax_rot.angle 20
+	arm1j1.angle 120
+	arm1j2.angle -45
+	arm2j1.angle -30
+	arm2j2.angle 20
+	leg1j2.angle 40
+	leg2j1.angle -60
+	leg2j2.angle 60
+endsync:
+sync:
+arm2j2.angle 60
+arm2j1.angle -150
+arm1j2.angle 0
+arm1j1.angle 0
+leg1j1.angle -80
+leg1j2.angle 100
+leg2j1.angle -140
+leg2j2.angle 120
+endsync:
+sync:
+leg1j1.angle -230
+leg2j1.angle -290
+ax_rot.angle -140
+endsync:
+sync:
+endsync:
+leg2j2.angle 60
+sync:
+ax_rot.angle -350
+arm1j1.angle 50
+arm1j2.angle -120
+leg1j1.angle -360
+leg1j2.angle 0
+leg2j1.angle -4
+arm2j2.angle -10
+arm2j1.angle -140
+arm1j2.angle -120
+endsync:

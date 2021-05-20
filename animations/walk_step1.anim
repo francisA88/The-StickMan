@@ -1,0 +1,9 @@
+sync:
+leg1j1.angle 10
+leg1j2.angle -40
+arm1j1.angle 30
+arm1j2.angle 20
+arm2j1.angle -80
+arm2j2.angle 100
+ax_rot.angle -3
+oposition.y 5
